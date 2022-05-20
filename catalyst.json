@@ -1,0 +1,10 @@
+{
+  "functions": {
+    "targets": [
+      "get_job_abt_zoho_cron",
+      "salary_listener"
+    ],
+    "ignore": [],
+    "source": "functions"
+  }
+}

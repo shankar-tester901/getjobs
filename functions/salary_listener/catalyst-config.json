@@ -1,0 +1,10 @@
+{
+	"deployment": {
+		"name": "salary_listener",
+		"stack": "node10",
+		"type": "event"
+	},
+	"execution": {
+		"main": "index.js"
+	}
+}

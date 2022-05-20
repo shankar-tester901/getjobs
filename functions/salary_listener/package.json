@@ -1,0 +1,9 @@
+{
+	"name": "salary_listener",
+	"version": "1.0.0",
+	"main": "index.js",
+	"author": "shankarr+1002@zohocorp.com",
+	"dependencies": {
+		"zcatalyst-sdk-node": "latest"
+	}
+}
